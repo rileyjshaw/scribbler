@@ -1,8 +1,10 @@
 # Scribbler
 
-Scribbler knows how to draw all sorts of lines. Spiral lines, jagged lines, noisy lines, even completely random lines. It loves to combine many types of lines into a single line.
+**_Status: Concept._**
 
-Try it out at [scribbler.rileyjshaw.com](https://scribbler.rileyjshaw.com).
+Scribbler knows how to draw all sorts of lines. Spiral lines, jagged lines, noisy lines, even completely random lines. It combines them into a single line and shows it to you.
+
+[Try it out!](https://rileyjshaw.com/scribbler)
 
 ## License
 
